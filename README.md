@@ -21,7 +21,9 @@ NB OUR website can only be host when is found under this directory <  /var/www/h
 >> LET see the files and folder we have ==
 
 [root@ip-172-31-41-80 SAM-AWS-demo-for-websitestatic]# ls
+
 assets  error  images  index.html  README.md
+
 [root@ip-172-31-41-80 SAM-AWS-demo-for-websitestatic]#
 
          Let copy  the to  /var/www/html 
